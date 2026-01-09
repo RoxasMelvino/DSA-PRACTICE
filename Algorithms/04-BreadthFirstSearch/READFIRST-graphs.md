@@ -1,5 +1,5 @@
 # Graphs
-Before we get into graph traversal algorithms like the breadth-first-search, we have to know what graphs are in the context of discrete mathematics.
+Before we get into graph traversal algorithms like the breadth-first-search, we need a brief introduction to graphs in discrete mathematics.
 A graph is a way of **representing relationships** that **exists between pairs of objects**. Do NOT confuse graphs in this context to function plots, bar charts, etc. Those are different!
 
 Abstractly, a graph $G = (V, E)$ is a set V of **_vertices_** (or nodes) and a set E of pairs of vertices from V called **_edges_** (or links), which fundamentally represents the relationship and connection between two vertices.
