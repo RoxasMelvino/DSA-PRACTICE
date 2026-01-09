@@ -12,6 +12,7 @@ The elements of $V$ are our nodes/vertices, and the elements of E are edges/link
 These edges could be _**directed**_ or **_undirected_**
 ---
 ## Directed and Undirected Edges
+Edges in a graph can either be directed or undirected
 
 
 
